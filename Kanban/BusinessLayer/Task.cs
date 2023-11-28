@@ -8,5 +8,6 @@ namespace Kanban.BusinessLayer
 {
     internal class Task
     {
+        public int id { get; private set; }
     }
 }
